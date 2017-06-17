@@ -1,5 +1,4 @@
 import {EventEmitter} from "events";
-
 declare interface PomeloClientParams{
     host : string;
     port : number;
