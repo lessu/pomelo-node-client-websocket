@@ -1,3 +1,4 @@
+# !Not Tested!
 # Pomelo javascript websocket client (Nodejs/Multi Client)
 
 The javascript websocket client library for [Pomelo](https://github.com/NetEase/pomelo).
@@ -11,6 +12,7 @@ The apis are almost the same in both clients, except websocket client need a han
 Both clients use [component](https://github.com/component/component/) package manager for building.
 
 ***
+
 ## Notice
 
 This fork Works in nodejs. Can't work in a broswer.
