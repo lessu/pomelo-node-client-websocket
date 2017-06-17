@@ -11,6 +11,6 @@ declare interface PomeloClient extends EventEmitter{
     disconnect():void;
     notify(route:string, msg:any);
 
-};
+}
 
 declare let create : () => PomeloClient;

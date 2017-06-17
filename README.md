@@ -1,4 +1,3 @@
-# !Not Tested!
 # Pomelo javascript websocket client (Nodejs/Multi Client)
 
 The javascript websocket client library for [Pomelo](https://github.com/NetEase/pomelo).
