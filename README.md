@@ -33,6 +33,10 @@ This fork Works in nodejs. Can't work in a broswer.
 ***
 
 ## Usage
+### install
+```bash
+npm install pomelo-node-client-websocket
+```
 ### create a client 
 ``` javascript
   var pomelo_client = require('pomelo-jsclient-websocket-node');
